@@ -1,0 +1,22 @@
+slicing
+
+recursion and iterative approach
+
+time modules
+
+virtual environment
+
+return ka concept
+
+if __name__ == '__main__': ka concept
+
+filter
+
+decorators
+
+pass
+
+
+
+
+

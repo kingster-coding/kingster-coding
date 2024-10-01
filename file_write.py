@@ -1,0 +1,5 @@
+f = open("mayank.txt","r+")
+a = f.write("hari om\n")
+print (f.read(a))
+f.write("ab ye read or write hoga")
+f.close()

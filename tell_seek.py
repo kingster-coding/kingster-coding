@@ -1,0 +1,5 @@
+f = open("mayank.txt","r+")
+print (f.readlines())
+print (f.tell())
+f.seek(10)
+f.close()

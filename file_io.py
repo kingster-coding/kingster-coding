@@ -1,0 +1,5 @@
+a = open("mayank.txt","w ")
+b = a.write("mayank is a good boy")
+print(a.readline())
+print("file created sucessfully")
+a.close()
